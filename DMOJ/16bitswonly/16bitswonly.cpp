@@ -1,6 +1,7 @@
 //
 // Created by Shahriar Nasim Nafi on 20/10/21.
 //
+// Problem: https://dmoj.ca/problem/16bitswonly
 
 #include <iostream>
 
